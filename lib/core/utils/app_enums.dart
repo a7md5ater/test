@@ -1,0 +1,1 @@
+enum TabBarType { doctors, products }
